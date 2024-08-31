@@ -7,7 +7,7 @@ The Customer Banking System is a Python-based application designed to manage Sav
 ## Features
 
 - **Savings Account Management**: Users can input their savings account details, including balance, interest rate, and duration, to calculate the interest earned and update the balance.
-- **CD Account Management**: Similar to savings, users can manage CD accounts by inputting relevant details to compute interest earned over a specific period.
+- **CD Account Management**: Similar to savings, users can manage CD accounts by inputting relevant details to calculate interest earned over a specific period.
 - **Interest Calculation**: The system accurately calculates interest based on the provided interest rates and durations for both savings and CD accounts.
 - **Balance Update**: After interest calculation, the program automatically updates the account balances to reflect the earned interest.
 - **User Interaction**: The program interacts with the user through prompts, making it easy to input and review account details.
